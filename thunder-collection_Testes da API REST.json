@@ -1,0 +1,47 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Testes da API REST",
+    "dateExported": "2024-03-05T00:38:23.896Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "0c3fdcb9-2d64-42f0-b66c-286fd4f6526d",
+            "colId": "db9458c1-7f7c-4c24-a3c5-1090dad11316",
+            "containerId": "",
+            "name": "https://jsonplaceholder.typicode.com/posts",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-03-05T00:33:58.193Z",
+            "modified": "2024-03-05T00:33:58.193Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"userId\": 1,\n \"id\":1,\n \"title\":\"mudei o titulo\",\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "413ea8e6-af8f-4844-918e-8ee4d305c5b1",
+            "colId": "db9458c1-7f7c-4c24-a3c5-1090dad11316",
+            "containerId": "",
+            "name": "https://jsonplaceholder.typicode.com/posts",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-03-05T00:38:04.752Z",
+            "modified": "2024-03-05T00:38:04.752Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"userId\": 1,\n \"id\":1,\n \"title\":\"mudei o titulo\",\n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}
